@@ -3,15 +3,15 @@ import { FaDev, FaGithub, FaLinkedinIn } from 'react-icons/fa'
 const links = [
     {
         Icon: FaDev,
-        href: 'https://dev.to/jameswallis',
+        href: 'https://dev.to/doc22940',
     },
     {
         Icon: FaGithub,
-        href: 'https://github.com/james-wallis',
+        href: 'https://github.com/fu4303',
     },
     {
         Icon: FaLinkedinIn,
-        href: 'https://www.linkedin.com/in/jamesemwallis',
+        href: 'https://www.linkedin.com/in/doc22940',
     },
 ]
 
